@@ -6,6 +6,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 public class Main {
+ //文件下载存放位置
  static String fileP = "D:\\Desktop\\element-ui\\";
  static String urlP = "https://unpkg.com/browse/element-ui@2.12.0/";
  static String urlF = "https://unpkg.com/element-ui@2.12.0/";
